@@ -1,0 +1,26 @@
+{
+  "name": "@multilocale/check",
+  "version": "0.0.1",
+  "description": "validation utility performing type checks on received input parameters",
+  "sideEffects": false,
+  "type": "module",
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/multilocale/check.git"
+  },
+  "keywords": [
+    "check",
+    "validation"
+  ],
+  "author": "Multilocale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/multilocale/check/issues"
+  },
+  "homepage": "https://github.com/multilocale/check#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
